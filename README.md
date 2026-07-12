@@ -33,4 +33,16 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sabeelmkr/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
