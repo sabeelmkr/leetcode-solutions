@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sabeelmkr/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -48,4 +49,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
