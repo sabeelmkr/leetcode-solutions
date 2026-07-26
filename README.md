@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sabeelmkr/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -15,6 +16,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sabeelmkr/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sabeelmkr/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
